@@ -13,59 +13,83 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
 - name: Language
   filter: "language"
+- name: Database
+  filter: "Database"
 - name: Container
   filter: "container"
+- name: Framework
+  filter: "Framework"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "Proficient in Java for creating efficient, scalable applications, with a strong understanding of object-oriented programming and design principles."
+  categories: ["language"]
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Proficient in Python for developing applications, with a strong emphasis on data analysis and machine learning."
+  categories: ["language"]
+  url: "https://www.python.org/"
+  
+- name: Spring Boot
+  logo: /images/sections/skills/springboot.png
+  summary: "Skilled in Spring Boot for developing robust and scalable Java applications, with expertise in RESTful API development and microservices architecture."
+  categories: ["Framework"]
+  url: "https://spring.io/projects/spring-boot"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Spring Security
+  logo: /images/sections/skills/springsecurity.png
+  summary: "Experienced in Spring Security for implementing authentication and authorization in Java applications, ensuring robust security and access control."
+  categories: ["Framework"]
+  url: "https://spring.io/projects/spring-security"
+
+- name: JavaScript
+  logo: /images/sections/skills/js.png
+  summary: "Experienced in JavaScript for developing dynamic web applications using modern frameworks and libraries."
+  categories: ["language"]
+
+- name: Bootstrap
+  logo: /images/sections/skills/bootstrap.png
+  summary: "Skilled in Bootstrap for creating responsive, mobile-first web applications."
+  categories: ["Framework"]
+  url: "https://getbootstrap.com/"
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "Proficient in MySQL for database design, management, and optimization, ensuring efficient data retrieval and storage."
+  categories: ["Database"]
+
+- name: MSSQL
+  logo: /images/sections/skills/sql-server.png
+  summary: "Skilled in MS SQL Server for database management, query optimization, and performance tuning to ensure reliable data handling."
+  categories: ["Database"]
+
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbitmq.png
+  summary: "Developed asynchronous message processing for a seckill system using RabbitMQ for efficient high-concurrency order handling."
+  categories: ["others"]
+  url: "https://www.rabbitmq.com/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Using as the main operating system and proficient in writing bash/shell scripts."
   categories: ["others"]
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Proficient in Docker for efficient containerization and application deployment."
   categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
+  summary: "Proficient in Git and GitHub for version control and collaborative development."
+  categories: ["others"]
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
