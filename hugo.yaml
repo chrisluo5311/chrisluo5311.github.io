@@ -1,7 +1,7 @@
 baseURL: https://chrisluo5311.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Chris's Blog"
 
 # Use Hugo modules to add theme
 module:
