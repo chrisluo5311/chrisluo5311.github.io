@@ -1,6 +1,6 @@
 baseURL: https://chrisluo5311.github.io
 
-languageCode: en
+languageCode: zh-tw
 title: "Chris's Blog"
 
 # Use Hugo modules to add theme
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Chris's Blog"
     weight: 1
   bn:
     languageCode: bn

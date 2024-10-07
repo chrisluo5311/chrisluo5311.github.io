@@ -16,11 +16,11 @@ buttons:
 - name: Language
   filter: "language"
 - name: Database
-  filter: "Database"
+  filter: "database"
 - name: Container
   filter: "container"
 - name: Framework
-  filter: "Framework"
+  filter: "framework"
 - name: Others
   filter: "others"
 
@@ -41,13 +41,13 @@ skills:
 - name: Spring Boot
   logo: /images/sections/skills/springboot.png
   summary: "Skilled in Spring Boot for developing robust and scalable Java applications, with expertise in RESTful API development and microservices architecture."
-  categories: ["Framework"]
+  categories: ["framework"]
   url: "https://spring.io/projects/spring-boot"
 
 - name: Spring Security
   logo: /images/sections/skills/springsecurity.png
   summary: "Experienced in Spring Security for implementing authentication and authorization in Java applications, ensuring robust security and access control."
-  categories: ["Framework"]
+  categories: ["framework"]
   url: "https://spring.io/projects/spring-security"
 
 - name: JavaScript
@@ -58,18 +58,18 @@ skills:
 - name: Bootstrap
   logo: /images/sections/skills/bootstrap.png
   summary: "Skilled in Bootstrap for creating responsive, mobile-first web applications."
-  categories: ["Framework"]
+  categories: ["framework"]
   url: "https://getbootstrap.com/"
 
 - name: MySQL
   logo: /images/sections/skills/mysql.png
   summary: "Proficient in MySQL for database design, management, and optimization, ensuring efficient data retrieval and storage."
-  categories: ["Database"]
+  categories: ["database"]
 
 - name: MSSQL
   logo: /images/sections/skills/sql-server.png
   summary: "Skilled in MS SQL Server for database management, query optimization, and performance tuning to ensure reliable data handling."
-  categories: ["Database"]
+  categories: ["database"]
 
 - name: RabbitMQ
   logo: /images/sections/skills/rabbitmq.png
