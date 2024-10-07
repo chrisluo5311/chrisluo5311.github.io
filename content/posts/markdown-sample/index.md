@@ -9,7 +9,7 @@ menu:
     weight: 30
 author:
   name: Jessica Jonas
-  image: /images/author/shiba.png
+  image: /images/author/avatars.png
 math: true
 ---
 
