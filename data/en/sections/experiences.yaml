@@ -25,5 +25,5 @@ experiences:
     responsibilities:
     - Built a cryptocurrency trading application with Spring Boot, featuring membership, order, and product management functionalities, utilizing Spring Security, RESTful API, and unit testing, capable of supports 10,000+ active users and processing 50,000+ orders daily. 
     - Improved MySQL database query performance by 2 times through indexing and implemented sharding for large datasets to accelerate CRUD operations. 
-    - Developed and maintained a notification service capable of sending 100,000 notifications per hour using RabbitMQ
+    - Developed and maintained an ordering system capable of processing 100,000 orders per hour using RabbitMQ.
 
