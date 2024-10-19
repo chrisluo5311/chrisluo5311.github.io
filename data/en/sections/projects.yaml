@@ -16,6 +16,8 @@ buttons:
   filter: "Spring boot"
 - name: Machine Learning
   filter: "machine-learning"
+- name: Bootstrap5
+  filter: "Bootstrap5"
 
 
 # your projects
@@ -31,11 +33,18 @@ projects:
 
 - name: Brain Tumor Detection with CNN
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
+  role: Team Leader
   timeline: "Oct 2023 - Nov 2023"
   repo: https://github.com/chrisluo5311/Team_Image_Recognition
   #url: ""
   summary: This project combines a CNN model for classifying brain tumors and a computer vision solution for automating brain cropping from MRI scans, achieving significantly higher accuracy as 90.24%.
   tags: ["machine-learning", "TensorFlow", "Keras", "CNN"]
 
-
+- name: FurBaby with Bootstrap5
+  logo: /images/sections/projects/bootstrap5.png
+  role: Developer
+  timeline: "Aug 2024 - Sep 2024"
+  repo: https://github.com/chrisluo5311/FurBaby
+  #url: ""
+  summary: "'FurBaby' is a responsive web page built with Bootstrap 5 and Sass, offering a seamless and responsive user experience across different devices."
+  tags: ["Bootstrap5"]
