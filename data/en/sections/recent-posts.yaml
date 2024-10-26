@@ -7,5 +7,6 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
+  showMoreButton: true #Can optionally show 'More Posts' button (default: false)
 
 # no additional configuration is required

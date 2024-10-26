@@ -1,6 +1,6 @@
 ---
 title: "Deploy site in Github Pages"
-date: 2020-06-08T06:00:20+06:00
+date: 2024-10-25T10:31:00-07:00
 hero: images/bg_yellow_pen.jpg
 menu:
   sidebar:

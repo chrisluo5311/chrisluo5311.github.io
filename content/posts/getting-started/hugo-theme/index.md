@@ -1,6 +1,6 @@
 ---
 title: "Use Hugo theme for your Github Pages"
-date: 2020-06-08T06:00:20+06:00
+date: 2024-10-25T10:29:00-07:00
 hero: images/hugo_bg.jpg
 menu:
   sidebar:
