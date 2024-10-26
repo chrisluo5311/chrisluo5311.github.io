@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Deploy Site
     identifier: getting-started
-    weight: 21
+    weight: 15
 ---

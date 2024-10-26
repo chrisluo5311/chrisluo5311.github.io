@@ -7,6 +7,6 @@ menu:
     name: Github Pages
     identifier: getting-started-github
     parent: getting-started
-    weight: 10
+    weight: 15
 ---
 ### Complete Post Coming Soon...
