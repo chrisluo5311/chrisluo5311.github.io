@@ -2,7 +2,7 @@ module github.com/chrisluo5311/chrisluo5311.github.io
 
 go 1.21
 
-require github.com/hugo-toha/toha/v4 v4.6.0 // indirect
+require github.com/hugo-toha/toha/v4 v4.7.0 // indirect
 
 // replace(
 //     github.com/hugo-toha/toha/v4 => ../toha
